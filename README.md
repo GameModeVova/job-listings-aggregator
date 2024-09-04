@@ -133,11 +133,10 @@ The scraped data will be saved in the ``data/`` directory
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add support for more job boards
-- [ ] Implement advanced filtering options
-- [ ] Add data analysis and visualization features
-  - [ ] Salary trends analysis
-  - [ ] Job demand by location
+ - [ ] Phase 1: Set up the basic scraper for a single job board.
+ - [ ] Phase 2: Expand to multiple job boards and combine datasets.
+ - [ ] Phase 3: Implement filtering options and data storage in CSV.
+ - [ ] Phase 4: Add data analysis and visualization features.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
