@@ -20,9 +20,6 @@
 <h3 align="center">Job Listings Aggregator</h3>
 
   <p align="center">
-    The Job Listings Aggregator is a Python-based project that scrapes job listings from multiple job boards like Indeed, LinkedIn, and Glassdoor. It aggregates job titles, companies, locations, salary ranges, and descriptions into a structured dataset, providing valuable insights and data analysis on job market trends. 
-    <br />
-    <br />
     <a href="https://github.com/gamemodevova/job-listings-aggregator">View Demo</a>
     ·
     <a href="https://github.com/gamemodevova/job-listings-aggregator/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -64,7 +61,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gamemodevova`, `job-listings-aggregator`, `twitter_handle`, `email_client`, `email`, `project_title`, `project_description`
+The Job Listings Aggregator is a Python-based project that scrapes job listings from multiple job boards like Indeed, LinkedIn, and Glassdoor. It aggregates job titles, companies, locations, salary ranges, and descriptions into a structured dataset, providing valuable insights and data analysis on job market trends. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
