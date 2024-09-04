@@ -71,11 +71,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
- ![Python][python-shield]
- ![BeautifulSoup][beautifulsoup-shield]
- ![Requests][requests-shield]
- ![Pandas][pandas-shield]
- ![Selenium][selenium-shield]
+* ![Python][python-shield]
+* ![BeautifulSoup][beautifulsoup-shield]
+* ![Requests][requests-shield]
+* ![Pandas][pandas-shield]
+* ![Selenium][selenium-shield]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,8 +195,9 @@ Project Link: [https://github.com/gamemodevova/job-listings-aggregator](https://
 [issues-url]: https://github.com/gamemodevova/job-listings-aggregator/issues
 [license-shield]: https://img.shields.io/github/license/gamemodevova/job-listings-aggregator.svg?style=for-the-badge
 [license-url]: https://github.com/gamemodevova/job-listings-aggregator/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[python-shield]: https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white
 [python-shield]: https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white
 [beautifulsoup-shield]: https://img.shields.io/badge/BeautifulSoup-4-green?style=for-the-badge&logo=python&logoColor=white
 [requests-shield]: https://img.shields.io/badge/Requests-2.25+-blue?style=for-the-badge&logo=python&logoColor=white
